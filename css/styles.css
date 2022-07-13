@@ -1,0 +1,27 @@
+.master-heading
+{
+  text-align: center;
+  color: white;
+
+}
+body{
+  background-color: black;
+    color:white;
+}
+
+.calculator
+{
+  margin:15% 20%;
+}
+.button-container
+{
+  text-align: center;
+  padding-top:20px;
+}
+
+.inp{
+  margin-top:7px;
+}
+.data{
+  margin-top:500px;
+}
